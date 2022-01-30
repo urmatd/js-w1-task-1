@@ -8,8 +8,8 @@
     - результат возведения числа a в степень b
 */
 
-let a = 9;
-let b = 3;
+let a = prompt("Напишите первое значение:");
+let b = prompt("Напишите второе значение:");
 console.log(a + b);
 console.log(a - b);
 console.log(a * b);
